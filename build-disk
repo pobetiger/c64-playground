@@ -1,0 +1,4 @@
+#!/bin/bash
+
+~/build/vice/tools/c1541 -format diskname,id d64 mydisk.d64 -attach mydisk.d64   -write timed
+
